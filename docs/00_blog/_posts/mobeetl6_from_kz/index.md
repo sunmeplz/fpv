@@ -10,7 +10,7 @@ date: 2024-06-04
 * rcinpower 0802 (0702/0703)
 * meteor65 air рама
 * gemfan 1219s
-* камера foxeer razor pico **[тут](https://aliexpress.ru/item/1005001620043911.html)**
+* камера foxeer razer pico 4:3 **[тут](https://aliexpress.ru/item/1005001620043911.html)**
 * tattu 300
 
 Альтернативный мотор
