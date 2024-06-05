@@ -20,13 +20,17 @@ theme:
         name: Switch to light mode
   features:
     - navigation.indexes
+    - navigation.tabs
 plugins:
   - search
-  - gen_nav:
-      enabled: true
+#  - gen_nav:
+#      enabled: true
   - blog:
       enabled: true
-      blog_dir: 00_blog
-      post_dir: 00_blog/_posts
+      blog_dir: '.'
+      post_dir: './_posts'
       archive: true
       categories: true
+#nav:
+#  - Blog:
+#    - index.md
